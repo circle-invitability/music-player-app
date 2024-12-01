@@ -5,6 +5,7 @@
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "live-server"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/circle-invitability/music-player-app/issues"
   },
-  "homepage": "https://github.com/circle-invitability/music-player-app#readme"
+  "homepage": "https://github.com/circle-invitability/music-player-app#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
