@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "music player app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/circle-invitability/music-player-app.git"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "app"
+  ],
+  "author": "klein-moretti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/circle-invitability/music-player-app/issues"
+  },
+  "homepage": "https://github.com/circle-invitability/music-player-app#readme"
+}
